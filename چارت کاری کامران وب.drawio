@@ -1,9 +1,244 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T11:33:33.385Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="iSccIjqf1BPeFfGbQCZi" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T12:22:29.651Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="sLqxsFEX3sMWzD4VmDGd" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2723" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-0" target="s9fRFcXrf9DhkDsM6O5m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-0" value="شروع" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-3" target="s9fRFcXrf9DhkDsM6O5m-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-3" value="دریافت تماس" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="170" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-19" value="نیاز به مشاوره دارد" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-10" target="s9fRFcXrf9DhkDsM6O5m-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="400" />
+              <mxPoint x="530" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-42" value="قصد خرید دارد" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-10" target="s9fRFcXrf9DhkDsM6O5m-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-69" value="قرارداد را امضاء کرده است" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-10" target="s9fRFcXrf9DhkDsM6O5m-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-90" value="قالب گرافیکی را انتخاب کرده است" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-10" target="s9fRFcXrf9DhkDsM6O5m-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="166" y="350" />
+              <mxPoint x="166" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-103" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;iransansweb&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;وضعیت فعلی پروژه اش رو جویا می شود&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-10" target="s9fRFcXrf9DhkDsM6O5m-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="350" />
+              <mxPoint x="491" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-10" value="وضعیت تماس گیرنده" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="237.5" y="310" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-18" target="s9fRFcXrf9DhkDsM6O5m-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-18" value="دادن مشاوره توسط واحد فروش" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-21" target="s9fRFcXrf9DhkDsM6O5m-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-21" value="ثبت اطلاعات در CRM&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-22" target="s9fRFcXrf9DhkDsM6O5m-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-22" value="ارسال پروپوزال و آدرس سایت" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="966" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-25" target="s9fRFcXrf9DhkDsM6O5m-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-25" value="دریافت اطلاعات اولیه" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-27" target="s9fRFcXrf9DhkDsM6O5m-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-27" value="جستجو در CRM برای بررسی وضعیت تماس گیرنده" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-32" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-29" target="s9fRFcXrf9DhkDsM6O5m-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-33" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-29" target="s9fRFcXrf9DhkDsM6O5m-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-29" value="اطلاعات این شخص قبلا ثبت شده بود" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="712.5" y="685" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-31" target="s9fRFcXrf9DhkDsM6O5m-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-31" value="صحبت از روی پرونده قدیمی ایشون" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-35" target="s9fRFcXrf9DhkDsM6O5m-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-35" value="بررسی مکالمه و سعی در شناخت نیازها و فروش" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-37" value="پایان" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="965" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-41" target="s9fRFcXrf9DhkDsM6O5m-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-41" value="جستجو در CRM و بررسی وضعیت تماس گیرنده" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-48" target="s9fRFcXrf9DhkDsM6O5m-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-48" value="ثبت اطلاعات در CRM&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-51" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-53" target="s9fRFcXrf9DhkDsM6O5m-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-52" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-53" target="s9fRFcXrf9DhkDsM6O5m-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-53" value="اطلاعات این شخص قبلا ثبت شده بود" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="242.5" y="590" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-55" value="صحبت از روی پرونده قدیمی ایشون" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-59" target="s9fRFcXrf9DhkDsM6O5m-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-59" value="دریافت اطلاعات مورد نیاز برای قرارداد و وارد کردن در CRM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-61" target="s9fRFcXrf9DhkDsM6O5m-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-61" value="آماده سازی قرارداد با مشخصات کارفرما و پیمانکار" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-63" target="s9fRFcXrf9DhkDsM6O5m-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-63" value="ارسال قرارداد به همراه ویدئو آموزش امضاء دیجیتال در تلگرام یا واتس آپ + فاکتور پیش پرداخت" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="1060" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-65" value="پایان" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-72" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-70" target="s9fRFcXrf9DhkDsM6O5m-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-81" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-70" target="s9fRFcXrf9DhkDsM6O5m-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-70" value="آیا فاکتور پیش پرداخت را واریز&amp;nbsp; است؟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="477.5" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-71" target="s9fRFcXrf9DhkDsM6O5m-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-71" value="ارسال قالب های گرافیکی برای انتخاب توسط مشتری" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-73" target="s9fRFcXrf9DhkDsM6O5m-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-73" value="ایجاد سه فاکتور فروش&lt;br&gt;50% پیش پرداخت&lt;br&gt;30% بعد از طرح گرافیکی&lt;br&gt;20% تحویل کار&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="950" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-78" value="پایان" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="25" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-80" target="s9fRFcXrf9DhkDsM6O5m-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-80" value="یادآوری برای واریز هزینه" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-95" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-93" target="s9fRFcXrf9DhkDsM6O5m-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-99" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-93" target="s9fRFcXrf9DhkDsM6O5m-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-93" value="آیا فاکتور پیش پرداخت را واریز&amp;nbsp; است؟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="145" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-94" target="s9fRFcXrf9DhkDsM6O5m-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-94" value="یادآوری برای واریز هزینه" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="162.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-96" value="پایان" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="152.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-98" target="s9fRFcXrf9DhkDsM6O5m-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-98" value="ارسال اطلاعات برای تیم فنی و شروع کار" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s9fRFcXrf9DhkDsM6O5m-101" target="s9fRFcXrf9DhkDsM6O5m-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-101" value="دریافت وضعیت پروژه مشتری از تیم فنی" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="232.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9fRFcXrf9DhkDsM6O5m-104" value="ارسال وضعیت پروژه برای مشتری" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="232.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
